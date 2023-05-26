@@ -1,4 +1,4 @@
-# HoloBadge System [<img src="https://github.com/JustSleightly/Resources/raw/main/Icons/JSLogo.png" width="30" height="30">](https://vrc.sleightly.dev/ "JustSleightly") [<img src="https://github.com/JustSleightly/Resources/raw/main/Icons/Discord.png" width="30" height="30">](https://discord.sleightly.dev/ "Discord") [<img src="https://github.com/JustSleightly/Resources/raw/main/Icons/GitHub.png" width="30" height="30">](https://github.sleightly.dev/ "Github") [<img src="https://github.com/JustSleightly/Resources/raw/main/Icons/Store.png" width="30" height="30">](https://store.sleightly.dev/ "Store")
+# HoloBadge [<img src="https://github.com/JustSleightly/Resources/raw/main/Icons/JSLogo.png" width="30" height="30">](https://vrc.sleightly.dev/ "JustSleightly") [<img src="https://github.com/JustSleightly/Resources/raw/main/Icons/Discord.png" width="30" height="30">](https://discord.sleightly.dev/ "Discord") [<img src="https://github.com/JustSleightly/Resources/raw/main/Icons/GitHub.png" width="30" height="30">](https://github.sleightly.dev/ "Github") [<img src="https://github.com/JustSleightly/Resources/raw/main/Icons/Store.png" width="30" height="30">](https://store.sleightly.dev/ "Store")
 
 [![GitHub stars](https://img.shields.io/github/stars/JustSleightly/HoloBadge)](https://github.com/JustSleightly/HoloBadge/stargazers) [![GitHub Tags](https://img.shields.io/github/tag/JustSleightly/HoloBadge)](https://github.com/JustSleightly/HoloBadge/tags) [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/JustSleightly/HoloBadge?include_prereleases)](https://github.com/JustSleightly/HoloBadge/releases) [![GitHub issues](https://img.shields.io/github/issues/JustSleightly/HoloBadge)](https://github.com/JustSleightly/HoloBadge/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/JustSleightly/HoloBadge)](https://github.com/JustSleightly/HoloBadge/commits/main) [![Discord](https://img.shields.io/discord/780192344800362506)](https://discord.sleightly.dev/)
 
@@ -760,20 +760,6 @@ Enabling this disables **Include Constraint Controls**.
 Enable this to have the banners triggered by Password Creator be visible to other players.
 
 Adds 1 - 3 memory to your expression parameters depending on how many banner events are selected (See **Memory Calculations** for more details).
-
-</details>
-
-<details>
-
-  <summary> <strong> Change Default PWC Menu Parameter </strong> </summary>
-
-######
-
-<blockquote>
-
-If you change the parameter used by Password Creator's menu during the PWC installation process, change it here as well. Otherwise, leave it as is.
-
-Defaults to `PWC/MenuOpen`.
 
 </details>
 
