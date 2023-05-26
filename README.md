@@ -245,8 +245,6 @@ Adds 2 - 5 memory to your expression parameters depending on how many bannerS ar
 
 ### Preview/Edit
 
-![](https://github.com/JustSleightly/HoloBadge/raw/main/Documentation/Images/HB%20Preview%20Edit.png)
-
 <details>
 
   <summary> <strong> Badge </strong> </summary>
@@ -460,6 +458,8 @@ This can be set differently per banner.
 </details>
 
 ### Extra Settings
+
+![](https://github.com/JustSleightly/HoloBadge/raw/main/Documentation/Images/HB%20Extra%20Settings.png)
 
 <details>
 
