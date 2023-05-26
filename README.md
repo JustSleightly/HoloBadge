@@ -199,11 +199,11 @@ Rotation is locked to a single axis and scaling is uniform only.
 
   <summary> <strong> Default Hand Configuration </strong> </summary>
 
-![](https://github.com/JustSleightly/HoloBadge/raw/main/Documentation/Images/HB%20Hand%20Configuration.png)
-
 ######
 
 <blockquote>
+
+![](https://github.com/JustSleightly/HoloBadge/raw/main/Documentation/Images/HB%20Hand%20Configuration.png)
 
 Select the hand that the badge should follow relative to when in VR.
 
@@ -215,11 +215,11 @@ This option is only available when the **Avatar Type** is Humanoid and **VR Dete
 
   <summary> <strong> Custom Follow Target </strong> </summary>
 
-![](https://github.com/JustSleightly/HoloBadge/raw/main/Documentation/Images/HB%20Custom%20Target.png)
-
 ######
 
 <blockquote>
+
+![](https://github.com/JustSleightly/HoloBadge/raw/main/Documentation/Images/HB%20Custom%20Target.png)
 
 Select the GameObject that the badge should follow relative to.
 
@@ -251,11 +251,11 @@ Adds 2 - 5 memory to your expression parameters depending on how many bannerS ar
 
   <summary> <strong> Badge </strong> </summary>
 
-![](https://github.com/JustSleightly/HoloBadge/raw/main/Documentation/Images/HB%20Badge%20Settings.png)
-
 ######
 
 <blockquote>
+
+![](https://github.com/JustSleightly/HoloBadge/raw/main/Documentation/Images/HB%20Badge%20Settings.png)
 
 Select a badge to preview it in the scene and expand its configurable settings.
 
@@ -325,8 +325,6 @@ This is shared across all banners.
 
   <summary> <strong> Banner </strong> </summary>
 
-![](https://github.com/JustSleightly/HoloBadge/raw/main/Documentation/Images/HB%20Banner%20Settings.png)
-
 ######
 
 <blockquote>
@@ -340,6 +338,8 @@ Select a banner to preview it in the scene and expand its configurable settings.
 ######
 
 <blockquote>
+
+![](https://github.com/JustSleightly/HoloBadge/raw/main/Documentation/Images/HB%20Banner%20Settings.png)
 
 Select a banner layout preset.
 
@@ -615,8 +615,6 @@ Designate which parameters should be saved (*persist between worlds/avatar loads
 
 ![](https://github.com/JustSleightly/HoloBadge/raw/main/Documentation/Images/HB%20Saved%20Default%20Parameters.png)
 
-######
-
 <details>
 
   <summary> <strong> Default Badge Constraint On </strong> </summary>
@@ -675,11 +673,11 @@ This option is only available if **Include Constraint Controls** is enabled.
 
   <summary> <strong> Password Creator Integration Settings </strong> </summary>
 
-![](https://github.com/JustSleightly/HoloBadge/raw/main/Documentation/Images/HB%20PWC%20Settings.png)
-
 ######
 
 <blockquote>
+
+![](https://github.com/JustSleightly/HoloBadge/raw/main/Documentation/Images/HB%20PWC%20Settings.png)
 
 This module is only available if **Password Creator Integration is enabled** from **Advanced Options**.
 
