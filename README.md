@@ -32,12 +32,12 @@ Customize your style with an abundance of tailored settings while still being ab
 ######
 | Performance Statistic | Count | Performance Rank |
 | --- | --- | --- |
-| `Polygons` | 610 | Excellent (610/32,000) |
-| `Skinned Mesh Renderers` | 1 | Good (1/2) |
-| `Material Slots` | 4 | Good (4/8) |
-| `Particle Systems` | 1 | Good (1/4) |
-| `Total Particles Active` | 300 | Good (300/300) |
-| `Audio Sources` | 0 - 4 | Good (4/4) |
+| `Polygons` | 610 | <img src="https://github.com/JustSleightly/Resources/raw/main/Icons/VRC%20Excellent.png" height="25" align = "top"> Excellent (610/32,000) |
+| `Skinned Mesh Renderers` | 1 | <img src="https://github.com/JustSleightly/Resources/raw/main/Icons/VRC%20Good.png" height="25" align = "top"> Good (1/2) |
+| `Material Slots` | 4 | <img src="https://github.com/JustSleightly/Resources/raw/main/Icons/VRC%20Good.png" height="25" align = "top"> Good (4/8) |
+| `Particle Systems` | 1 | <img src="https://github.com/JustSleightly/Resources/raw/main/Icons/VRC%20Good.png" height="25" align = "top"> Good (1/4) |
+| `Total Particles Active` | 300 | <img src="https://github.com/JustSleightly/Resources/raw/main/Icons/VRC%20Good.png" height="25" align = "top"> Good (300/300) |
+| `Audio Sources` | 0 - 4 | <img src="https://github.com/JustSleightly/Resources/raw/main/Icons/VRC%20Good.png" height="25" align = "top"> Good (4/4) |
 
 | Specifications | Default | Range |
 | :--- | :--- | :--- |
@@ -681,6 +681,10 @@ This option is only available if **Include Constraint Controls** is enabled.
 
 This module is only available if **Password Creator Integration is enabled** from **Advanced Options**.
 
+It is recommended to install Password Creator *after* HoloBadge, as you will need to enable `Badge Compatibility`. This is usually automatically detected by Password Creator if you install HoloBadge first.
+
+You may also want to rotate HoloBadge 180 degrees so that it faces you when locked.
+
 <details>
 
   <summary> <strong> Banner Event </strong> </summary>
@@ -700,6 +704,8 @@ During/After Trial refer to PWC's pre-timer functionality which doesn't lock an 
 `During Trial` will trigger while the Avatar is unlocked before the password is entered. It is recommend to leave **Only when PWC menu open** enabled for this event.
 
 `After Trial` is after the trial expires and the Avatar is locked again but before the password is entered.
+
+Please be sure to enable `Pre-Timer` in Password Creator when using a Trial event.
 
 <details>
 
