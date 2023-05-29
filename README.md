@@ -2,9 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/JustSleightly/HoloBadge)](https://github.com/JustSleightly/HoloBadge/stargazers) [![GitHub Tags](https://img.shields.io/github/tag/JustSleightly/HoloBadge)](https://github.com/JustSleightly/HoloBadge/tags) [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/JustSleightly/HoloBadge?include_prereleases)](https://github.com/JustSleightly/HoloBadge/releases) [![GitHub issues](https://img.shields.io/github/issues/JustSleightly/HoloBadge)](https://github.com/JustSleightly/HoloBadge/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/JustSleightly/HoloBadge)](https://github.com/JustSleightly/HoloBadge/commits/main) [![Discord](https://img.shields.io/discord/780192344800362506)](https://discord.sleightly.dev/)
 
-<!---
-![PLACEHOLDER](https://github.com/JustSleightly/HoloBadge/raw/main/Documentation/Gifs/HB%20Gumroad%20Showcase.gif)
---->
+![](https://github.com/JustSleightly/HoloBadge/raw/main/Documentation/Gifs/HB%20Gumroad%20Showcase.gif)
 
 Enhance your VRChat marketing effortlessly with **HoloBadge**, a hyper optimized system built for **VRChat** users to make a lasting impression and stand out in the virtual world with ease. 
 
@@ -52,10 +50,7 @@ Customize your style with an abundance of tailored settings while still being ab
 
 <h2> Showcase / Performance Reel </h2>
 
-<!---
-PLACEHOLDER
-[<img src="https://img.youtube.com/vi/p-oQoq1jhgk/0.jpg" width="410">](https://www.youtube.com/watch?v=p-oQoq1jhgk "HoloBadge Showcase")
---->
+[<img src="https://img.youtube.com/vi/qvgwwYiU2p0/0.jpg" width="410">](https://youtu.be/qvgwwYiU2p0 "HoloBadge Showcase")
 
 <details> 
 
@@ -114,10 +109,7 @@ All other HoloBadge features are available to both licenses.
 
 ### Unity Installation Guide Video
 
-<!---
-PLACEHOLDER
-[<img src="https://img.youtube.com/vi/va1lYhfW4Jw/0.jpg" height="239">](https://youtu.be/va1lYhfW4Jw&list=PLpwkZ4rDyvL2rqBPPXGDrLV7ZoAAhRIy6 "HoloBadge Unity Installation Speedrun WR Any%") [<img src="https://img.youtube.com/vi/TqdPVBS3s8g/0.jpg" height="239">](https://youtu.be/TqdPVBS3s8g&list=PLpwkZ4rDyvL2rqBPPXGDrLV7ZoAAhRIy6 "HoloBadge Unity Detailed Installation Tutorial")
---->
+[<img src="https://img.youtube.com/vi/XTy-wo8qxK0/0.jpg" height="239">](https://youtu.be/XTy-wo8qxK0 "HoloBadge Unity Installation Speedrun WR Any%") [<img src="https://img.youtube.com/vi/UydDvPTqiiY/0.jpg" height="239">](https://youtu.be/UydDvPTqiiY "HoloBadge Unity Detailed Installation Tutorial")
 
 ### Importing The Prefab
 
