@@ -4,7 +4,7 @@
 
 ![](https://github.com/JustSleightly/HoloBadge/raw/main/Documentation/Gifs/HB%20Gumroad%20Showcase.gif)
 
-Enhance your VRChat marketing effortlessly with **HoloBadge**, a hyper optimized system built for **VRChat** users to make a lasting impression and stand out in the virtual world with ease. 
+Enhance your VRChat marketing effortlessly with **HoloBadge**, a hyper-optimized system built for **VRChat** users to make a lasting impression and stand out in the virtual world with ease. 
 
 Customize your style with an abundance of tailored settings while still being able to maintain a potential [Green/Good](https://docs.vrchat.com/docs/avatar-performance-ranking-system#pc-limits) performance rank. Streamline your setup with an automatic setup tool, allowing for one-step installation without any VRChat 3.0 or advanced Unity experience whatsoever!
 
