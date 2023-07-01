@@ -69,7 +69,7 @@ Customize your style with an abundance of tailored settings while still being ab
 # Requirements
 
 1. Basic Unity experience + VRChat SDK3 uploading experience.
-2. Latest [Poiyomi Toon Shader](https://github.com/poiyomi/PoiyomiToonShader) - *Tested with v8.1.163*
+2. Latest [Poiyomi Toon Shader](https://github.com/poiyomi/PoiyomiToonShader) - *Tested with v8.1.166*
 2. A **validated** license key for first time activation.
     1. License keys can be purchased from my [store](https://store.sleightly.dev/).
     2. Keys must be validated by joining my [discord](https://discord.sleightly.dev/) and opening a ticket with my automated discord bot.
