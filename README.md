@@ -138,8 +138,6 @@ If there are no active Avatar Descriptors found in the scene, the installer will
 
 If you have never used this on this PC before, you will see a field labeled **Enter your license key**. Make sure you've validated your license key on the [Discord](https://discord.sleightly.dev/) server, then input your license key from your purchase and click activate. This is a one-time-use key that will authorize the current PC for future use of HoloBadge.
 
-You will also be prompted to come up with a security question and password. These will be used if you ever need to reset/transfer your license, so please remember your selection. Please don't use any sensitive information for your responses.
-
 If your license key is not working due to it already being in use, click the *Transfer License* option.
 
 </details>
